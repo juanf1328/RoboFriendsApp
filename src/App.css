@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'Transformers';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Transformers.TTF'), url('Transformers.TTF') format('TTF')
+}
+
+h1{
+    font-family: 'Transformers';
+    font-weight: 400;
+    color: #f5af19;
+    text-decoration: underline;
+}
+
