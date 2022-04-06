@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1872f68d08364d603ad8",
-    "url": "/RoboFriendsApp/static/css/main.03f301fd.chunk.css"
+    "revision": "43f0301923e5b4bc42ad",
+    "url": "/RoboFriendsApp/static/css/main.9b71d00a.chunk.css"
   },
   {
-    "revision": "1872f68d08364d603ad8",
-    "url": "/RoboFriendsApp/static/js/main.d198b4cb.chunk.js"
+    "revision": "43f0301923e5b4bc42ad",
+    "url": "/RoboFriendsApp/static/js/main.efa68e59.chunk.js"
   },
   {
     "revision": "9aa74f3c1fd7d892e3ab",
@@ -24,11 +24,11 @@ self.__precacheManifest = [
     "url": "/RoboFriendsApp/static/js/3.68b36b5f.chunk.js"
   },
   {
-    "revision": "4881b794778f93c3e67c6320be95e043",
-    "url": "/RoboFriendsApp/static/media/Transformers.4881b794.TTF"
+    "revision": "45732b5305b510e6bf5ed764f19396d6",
+    "url": "/RoboFriendsApp/static/media/Break.45732b53.woff"
   },
   {
-    "revision": "3fe0d905e1c545622c4131b82b73baa9",
+    "revision": "6074c62a430096a57ffbc53e8a945894",
     "url": "/RoboFriendsApp/index.html"
   }
 ];
