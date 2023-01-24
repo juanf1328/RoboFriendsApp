@@ -1,18 +1,25 @@
 {
   "name": "robofriends",
   "homepage": "https://juanf1328.github.io/RoboFriendsApp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
+    "@hapi/hoek": "^11.0.2",
+    "@hapi/topo": "^6.0.0",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "gh-pages": "^3.2.3",
+    "query-string": "^8.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^2.1.8",
+    "resolve-url": "^0.2.1",
+    "sane": "^5.0.1",
+    "source-map-resolve": "^0.6.0",
     "svelte": "^3.44.0",
     "tachyons": "^4.12.0",
+    "topo": "^3.0.3",
     "web-vitals": "^2.1.2"
   },
   "scripts": {
